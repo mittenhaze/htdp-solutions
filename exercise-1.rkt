@@ -5,4 +5,4 @@
 (define x 3)
 (define y 4)
 
-(define (cartesian x y) (sqrt (+ (sqr x) (sqr y))))
+(sqrt (+ (sqr x) (sqr y)))
